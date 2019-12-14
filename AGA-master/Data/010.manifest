@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2878512672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc626c4dd0068f706dd1460c4874e76b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3c9ee638191e22dbd8fe2ac5db11ec41
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/010/chr1_010_06_001.prefab
+- Assets/Prefabs/010/chr1_010_08_001.prefab
+- Assets/Prefabs/010/hir1_010_01.prefab
+- Assets/Prefabs/010/chr1_010_03_001.prefab
+- Assets/Prefabs/010/chr1_010_05_001.prefab
+- Assets/Prefabs/010/chr1_010_07_001.prefab
+- Assets/Prefabs/010/chr1_010_09_001.prefab
+- Assets/Prefabs/010/chr1_010_04_001.prefab
+- Assets/Prefabs/010/chr1_010_02_001.prefab
+- Assets/Prefabs/010/fce1_010_01.prefab
+- Assets/Prefabs/010/chr1_010_01_001.prefab
+Dependencies: []
